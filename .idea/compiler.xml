@@ -7,15 +7,32 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
       </profile>
+      <profile name="Annotation profile for Financial Intelligence Platform" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.30/lombok-1.18.30.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/mapstruct/mapstruct-processor/1.5.5.Final/mapstruct-processor-1.5.5.Final.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/mapstruct/mapstruct/1.5.5.Final/mapstruct-1.5.5.Final.jar" />
+        </processorPath>
+        <module name="finplatform-user-service" />
+        <module name="finplatform-banking-service" />
+        <module name="finplatform-gateway" />
+        <module name="finplatform-discovery" />
+        <module name="finplatform-notification-service" />
+        <module name="finplatform-common" />
+      </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="financial-intelligence-platform" target="1.5" />
-      <module name="finplatform-banking-service" target="1.8" />
-      <module name="finplatform-common" target="1.8" />
-      <module name="finplatform-discovery" target="1.8" />
-      <module name="finplatform-gateway" target="1.8" />
-      <module name="finplatform-notification-service" target="1.8" />
-      <module name="finplatform-user-service" target="1.8" />
-    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="finplatform-banking-service" options="-parameters" />
+      <module name="finplatform-common" options="-parameters" />
+      <module name="finplatform-discovery" options="-parameters" />
+      <module name="finplatform-gateway" options="-parameters" />
+      <module name="finplatform-notification-service" options="-parameters" />
+      <module name="finplatform-user-service" options="-parameters" />
+    </option>
   </component>
 </project>
