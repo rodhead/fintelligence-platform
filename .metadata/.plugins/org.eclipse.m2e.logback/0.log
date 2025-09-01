@@ -1,0 +1,56 @@
+2025-09-01 21:43:00,798 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-09-01 21:43:37,868 [Worker-20: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.finplatform:finplatform-common:1.0.0-SNAPSHOT @ /Users/misbahrahman/MySpace/Work/Projects/financial_intel/Prototype/code/financial-intelligence-platform/finplatform-common/pom.xml.
+2025-09-01 21:43:37,879 [Worker-20: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.finplatform:finplatform-discovery:1.0.0-SNAPSHOT @ /Users/misbahrahman/MySpace/Work/Projects/financial_intel/Prototype/code/financial-intelligence-platform/finplatform-discovery/pom.xml.
+2025-09-01 21:43:37,887 [Worker-20: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.finplatform:finplatform-gateway:1.0.0-SNAPSHOT @ /Users/misbahrahman/MySpace/Work/Projects/financial_intel/Prototype/code/financial-intelligence-platform/finplatform-gateway/pom.xml.
+2025-09-01 21:43:37,893 [Worker-20: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.finplatform:finplatform-user-service:1.0.0-SNAPSHOT @ /Users/misbahrahman/MySpace/Work/Projects/financial_intel/Prototype/code/financial-intelligence-platform/finplatform-user-service/pom.xml.
+2025-09-01 21:43:37,900 [Worker-20: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.finplatform:finplatform-banking-service:1.0.0-SNAPSHOT @ /Users/misbahrahman/MySpace/Work/Projects/financial_intel/Prototype/code/financial-intelligence-platform/finplatform-banking-service/pom.xml.
+2025-09-01 21:43:37,906 [Worker-20: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.finplatform:finplatform-notification-service:1.0.0-SNAPSHOT @ /Users/misbahrahman/MySpace/Work/Projects/financial_intel/Prototype/code/financial-intelligence-platform/finplatform-notification-service/pom.xml.
+2025-09-01 21:43:38,085 [Worker-20: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /finplatform-common/src/main/java
+2025-09-01 21:43:38,086 [Worker-20: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /finplatform-common/src/main/resources
+2025-09-01 21:43:38,087 [Worker-20: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /finplatform-common/src/test/java
+2025-09-01 21:43:38,087 [Worker-20: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /finplatform-common/src/test/resources
+2025-09-01 21:43:38,134 [Worker-20: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /finplatform-discovery/src/main/java
+2025-09-01 21:43:38,134 [Worker-20: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /finplatform-discovery/src/main/resources
+2025-09-01 21:43:38,134 [Worker-20: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /finplatform-discovery/src/test/java
+2025-09-01 21:43:38,134 [Worker-20: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /finplatform-discovery/src/test/resources
+2025-09-01 21:43:38,149 [Worker-20: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /finplatform-gateway/src/main/java
+2025-09-01 21:43:38,149 [Worker-20: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /finplatform-gateway/src/main/resources
+2025-09-01 21:43:38,149 [Worker-20: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /finplatform-gateway/src/test/java
+2025-09-01 21:43:38,149 [Worker-20: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /finplatform-gateway/src/test/resources
+2025-09-01 21:43:38,165 [Worker-20: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /finplatform-notification-service/src/main/java
+2025-09-01 21:43:38,165 [Worker-20: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /finplatform-notification-service/src/main/resources
+2025-09-01 21:43:38,165 [Worker-20: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /finplatform-notification-service/src/test/java
+2025-09-01 21:43:38,165 [Worker-20: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /finplatform-notification-service/src/test/resources
+2025-09-01 21:43:38,182 [Worker-20: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /finplatform-banking-service/src/main/java
+2025-09-01 21:43:38,182 [Worker-20: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /finplatform-banking-service/src/main/resources
+2025-09-01 21:43:38,182 [Worker-20: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /finplatform-banking-service/src/test/java
+2025-09-01 21:43:38,182 [Worker-20: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /finplatform-banking-service/src/test/resources
+2025-09-01 21:43:38,198 [Worker-20: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /finplatform-user-service/src/main/java
+2025-09-01 21:43:38,198 [Worker-20: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /finplatform-user-service/src/main/resources
+2025-09-01 21:43:38,198 [Worker-20: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /finplatform-user-service/src/test/java
+2025-09-01 21:43:38,198 [Worker-20: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /finplatform-user-service/src/test/resources
+2025-09-01 21:43:38,206 [Worker-20: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 6 project(s) in 1 sec
+2025-09-01 21:43:38,574 [Worker-15: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-01 21:43:38,576 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-01 21:43:38,577 [Worker-15: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-01 21:43:38,578 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2025-09-01 21:43:38,655 [Worker-15: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-01 21:43:38,656 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-01 21:43:38,656 [Worker-15: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-01 21:43:38,656 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2025-09-01 21:43:38,663 [Worker-15: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-01 21:43:38,663 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-01 21:43:38,664 [Worker-15: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-01 21:43:38,664 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2025-09-01 21:43:38,676 [Worker-15: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-01 21:43:38,676 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-01 21:43:38,677 [Worker-15: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-01 21:43:38,677 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2025-09-01 21:43:38,685 [Worker-15: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-01 21:43:38,695 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-01 21:43:38,697 [Worker-15: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-01 21:43:38,697 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2025-09-01 21:43:38,706 [Worker-15: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-01 21:43:38,706 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-01 21:43:38,707 [Worker-15: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-01 21:43:38,707 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
